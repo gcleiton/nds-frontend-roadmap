@@ -4,6 +4,10 @@
 
 **Obs.:** o checklist pode sofrer alterações conforme o avanço no desenvolvimento do projeto.
 
+**Obs.:** [clique aqui](https://olivine-vicuna-458.notion.site/NDS-Frontend-Roadmap-b23fe46dffa5414486a2d5c1947d8a96), caso queria acompanhar no Notion.
+
+<br/>
+
 **Essencial (required):**
 
 - **HTML:**
@@ -42,6 +46,8 @@
     - [ ]  [List and Keys](https://reactjs.org/docs/lists-and-keys.html): as chaves ajudam o React a identificar quais itens foram alterados, adicionados ou removidos.
     - [ ]  [Context API](https://reactjs.org/docs/context.html): fornece uma maneira de passar dados pela árvore de componentes sem ter que passar os parâmetros manualmente em todos os níveis.
 
+<br/>
+
 Avançado (optional)**:**
 
 - [ ]  Typescript: nos oferece mais controle sobre nosso código por meio de anotações de tipo, interfaces e classes.
@@ -65,5 +71,7 @@ Avançado (optional)**:**
 - [ ]  React Hook Form: dependência para manipulação de formulários
     - [ ]  [Documentação](https://react-hook-form.com/get-started)
     - [ ]  [Tutorial](https://youtu.be/oD30xo6DGVg)
+
+<br/>
 
 Valeu rapaziada, até a próxima! 🤙🏽
