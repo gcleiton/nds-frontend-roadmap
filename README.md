@@ -4,7 +4,7 @@
 
 **Obs.:** o checklist pode sofrer alterações conforme o avanço no desenvolvimento do projeto.
 
-**Obs.:** [clique aqui](https://olivine-vicuna-458.notion.site/NDS-Frontend-Roadmap-b23fe46dffa5414486a2d5c1947d8a96), caso queria acompanhar no Notion.
+**Obs.:** [clique aqui](https://gcleiton.notion.site/NDS-Frontend-Roadmap-9820fd92d02646cba62dc4e3f6e9528d), caso queria acompanhar no Notion.
 
 <br/>
 
